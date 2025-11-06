@@ -1,0 +1,16 @@
+# --- Core app ---
+streamlit
+groq
+python-dotenv
+
+# --- PDF parsing ---
+pdfminer.six
+
+# --- Database ---
+SQLAlchemy
+psycopg2-binary
+
+# --- Misc (small helper) ---
+typing_extensions
+
+reportlab
